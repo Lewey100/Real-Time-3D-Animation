@@ -1,0 +1,6 @@
+*.db
+.vs/
+*.tmp
+Hierarchy/Debug/
+Shared/Debug/
+*.sdf
